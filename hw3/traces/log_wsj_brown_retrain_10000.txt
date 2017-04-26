@@ -1,0 +1,228 @@
+#Trees: 31728
+0 tree(s) are illegal (0.00%).
+0 tree(s) are legal but have multiple roots (0.00%).
+21 tree(s) are legal but not projective (0.07%).
+Scaling word embeddings:(mean = -0.02, std = 1.06) -> (mean = 0.00, std = 1.00)language = UniversalEnglish
+trainingThreads = 1
+wordCutOff = 1
+initRange = 0.010
+maxIter = 200
+batchSize = 10000
+adaEps = 1.0e-06
+adaAlpha = 0.010
+regParameter = 1.0e-08
+dropProb = 0.50
+hiddenSize = 200
+embeddingSize = 50
+numPreComputed = 100000
+evalPerIter = 100
+clearGradientsPerIter = 0
+saveItermediate = true
+unlabeled = false
+cPOS = false
+noPunc = true
+doWordEmbeddingGradUpdate = true
+Percent actually necessary to pre-compute: 21.290000%
+Percent actually necessary to pre-compute: 21.286000%
+Percent actually necessary to pre-compute: 21.345000%
+Percent actually necessary to pre-compute: 21.228001%
+Percent actually necessary to pre-compute: 21.144000%
+Percent actually necessary to pre-compute: 21.313000%
+Percent actually necessary to pre-compute: 21.332000%
+Percent actually necessary to pre-compute: 21.193001%
+Percent actually necessary to pre-compute: 21.241000%
+Percent actually necessary to pre-compute: 21.367000%
+Percent actually necessary to pre-compute: 21.157999%
+Percent actually necessary to pre-compute: 21.116000%
+Percent actually necessary to pre-compute: 21.352001%
+Percent actually necessary to pre-compute: 21.078999%
+Percent actually necessary to pre-compute: 21.303000%
+Percent actually necessary to pre-compute: 21.096000%
+Percent actually necessary to pre-compute: 21.337999%
+Percent actually necessary to pre-compute: 21.307001%
+Percent actually necessary to pre-compute: 21.247000%
+Percent actually necessary to pre-compute: 21.375000%
+Percent actually necessary to pre-compute: 21.122000%
+Percent actually necessary to pre-compute: 21.276000%
+Percent actually necessary to pre-compute: 21.253000%
+Percent actually necessary to pre-compute: 21.277000%
+Percent actually necessary to pre-compute: 21.373001%
+Percent actually necessary to pre-compute: 21.190000%
+Percent actually necessary to pre-compute: 21.398000%
+Percent actually necessary to pre-compute: 21.380000%
+Percent actually necessary to pre-compute: 21.117000%
+Percent actually necessary to pre-compute: 21.408001%
+Percent actually necessary to pre-compute: 21.156000%
+Percent actually necessary to pre-compute: 21.252000%
+Percent actually necessary to pre-compute: 21.378000%
+Percent actually necessary to pre-compute: 21.220000%
+Percent actually necessary to pre-compute: 21.097000%
+Percent actually necessary to pre-compute: 21.184000%
+Percent actually necessary to pre-compute: 21.010000%
+Percent actually necessary to pre-compute: 21.387000%
+Percent actually necessary to pre-compute: 21.217000%
+Percent actually necessary to pre-compute: 21.180999%
+Percent actually necessary to pre-compute: 21.342000%
+Percent actually necessary to pre-compute: 21.179000%
+Percent actually necessary to pre-compute: 21.306001%
+Percent actually necessary to pre-compute: 21.283001%
+Percent actually necessary to pre-compute: 21.415000%
+Percent actually necessary to pre-compute: 21.173000%
+Percent actually necessary to pre-compute: 21.224999%
+Percent actually necessary to pre-compute: 21.208000%
+Percent actually necessary to pre-compute: 21.241000%
+Percent actually necessary to pre-compute: 21.405999%
+Percent actually necessary to pre-compute: 21.262001%
+Percent actually necessary to pre-compute: 21.054000%
+Percent actually necessary to pre-compute: 21.337000%
+Percent actually necessary to pre-compute: 21.342000%
+Percent actually necessary to pre-compute: 21.261001%
+Percent actually necessary to pre-compute: 21.094000%
+Percent actually necessary to pre-compute: 21.200000%
+Percent actually necessary to pre-compute: 21.342000%
+Percent actually necessary to pre-compute: 21.322000%
+Percent actually necessary to pre-compute: 21.317001%
+Percent actually necessary to pre-compute: 21.206000%
+Percent actually necessary to pre-compute: 21.363001%
+Percent actually necessary to pre-compute: 21.280999%
+Percent actually necessary to pre-compute: 21.269000%
+Percent actually necessary to pre-compute: 21.250001%
+Percent actually necessary to pre-compute: 21.251000%
+Percent actually necessary to pre-compute: 21.083000%
+Percent actually necessary to pre-compute: 21.209000%
+Percent actually necessary to pre-compute: 21.092001%
+Percent actually necessary to pre-compute: 21.314999%
+Percent actually necessary to pre-compute: 21.235000%
+Percent actually necessary to pre-compute: 21.242000%
+Percent actually necessary to pre-compute: 21.287000%
+Percent actually necessary to pre-compute: 21.084000%
+Percent actually necessary to pre-compute: 21.213999%
+Percent actually necessary to pre-compute: 21.307001%
+Percent actually necessary to pre-compute: 21.134999%
+Percent actually necessary to pre-compute: 21.162000%
+Percent actually necessary to pre-compute: 21.279000%
+Percent actually necessary to pre-compute: 21.280999%
+Percent actually necessary to pre-compute: 21.173000%
+Percent actually necessary to pre-compute: 21.348999%
+Percent actually necessary to pre-compute: 20.998000%
+Percent actually necessary to pre-compute: 21.268000%
+Percent actually necessary to pre-compute: 21.066000%
+Percent actually necessary to pre-compute: 21.345000%
+Percent actually necessary to pre-compute: 21.319000%
+Percent actually necessary to pre-compute: 21.236999%
+Percent actually necessary to pre-compute: 21.198000%
+Percent actually necessary to pre-compute: 21.377000%
+Percent actually necessary to pre-compute: 21.173000%
+Percent actually necessary to pre-compute: 21.104001%
+Percent actually necessary to pre-compute: 21.206000%
+Percent actually necessary to pre-compute: 21.380000%
+Percent actually necessary to pre-compute: 21.335000%
+Percent actually necessary to pre-compute: 21.278000%
+Percent actually necessary to pre-compute: 21.220000%
+Percent actually necessary to pre-compute: 21.314000%
+Percent actually necessary to pre-compute: 21.439999%
+Percent actually necessary to pre-compute: 21.229000%
+Percent actually necessary to pre-compute: 21.078999%
+Percent actually necessary to pre-compute: 21.253000%
+Percent actually necessary to pre-compute: 21.596000%
+Percent actually necessary to pre-compute: 21.093000%
+Percent actually necessary to pre-compute: 21.329001%
+Percent actually necessary to pre-compute: 21.351001%
+Percent actually necessary to pre-compute: 21.100000%
+Percent actually necessary to pre-compute: 21.164000%
+Percent actually necessary to pre-compute: 21.214999%
+Percent actually necessary to pre-compute: 21.484999%
+Percent actually necessary to pre-compute: 21.422000%
+Percent actually necessary to pre-compute: 21.343000%
+Percent actually necessary to pre-compute: 21.210000%
+Percent actually necessary to pre-compute: 21.382000%
+Percent actually necessary to pre-compute: 21.417999%
+Percent actually necessary to pre-compute: 21.176000%
+Percent actually necessary to pre-compute: 21.296000%
+Percent actually necessary to pre-compute: 21.296000%
+Percent actually necessary to pre-compute: 21.286000%
+Percent actually necessary to pre-compute: 21.083000%
+Percent actually necessary to pre-compute: 21.144000%
+Percent actually necessary to pre-compute: 21.224999%
+Percent actually necessary to pre-compute: 21.291000%
+Percent actually necessary to pre-compute: 21.322000%
+Percent actually necessary to pre-compute: 21.099000%
+Percent actually necessary to pre-compute: 21.211000%
+Percent actually necessary to pre-compute: 21.403000%
+Percent actually necessary to pre-compute: 21.275000%
+Percent actually necessary to pre-compute: 21.219000%
+Percent actually necessary to pre-compute: 21.304999%
+Percent actually necessary to pre-compute: 21.188000%
+Percent actually necessary to pre-compute: 21.209000%
+Percent actually necessary to pre-compute: 21.243000%
+Percent actually necessary to pre-compute: 21.347000%
+Percent actually necessary to pre-compute: 21.334000%
+Percent actually necessary to pre-compute: 21.280999%
+Percent actually necessary to pre-compute: 21.259999%
+Percent actually necessary to pre-compute: 21.322000%
+Percent actually necessary to pre-compute: 21.134999%
+Percent actually necessary to pre-compute: 21.439999%
+Percent actually necessary to pre-compute: 21.164000%
+Percent actually necessary to pre-compute: 21.324000%
+Percent actually necessary to pre-compute: 21.319000%
+Percent actually necessary to pre-compute: 21.173000%
+Percent actually necessary to pre-compute: 21.145000%
+Percent actually necessary to pre-compute: 21.138000%
+Percent actually necessary to pre-compute: 21.202999%
+Percent actually necessary to pre-compute: 21.313000%
+Percent actually necessary to pre-compute: 21.047001%
+Percent actually necessary to pre-compute: 21.186000%
+Percent actually necessary to pre-compute: 21.242000%
+Percent actually necessary to pre-compute: 21.258999%
+Percent actually necessary to pre-compute: 21.456000%
+Percent actually necessary to pre-compute: 21.098000%
+Percent actually necessary to pre-compute: 21.168999%
+Percent actually necessary to pre-compute: 21.219000%
+Percent actually necessary to pre-compute: 21.258000%
+Percent actually necessary to pre-compute: 21.227001%
+Percent actually necessary to pre-compute: 21.242000%
+Percent actually necessary to pre-compute: 21.408001%
+Percent actually necessary to pre-compute: 21.156000%
+Percent actually necessary to pre-compute: 21.414000%
+Percent actually necessary to pre-compute: 21.320000%
+Percent actually necessary to pre-compute: 21.232000%
+Percent actually necessary to pre-compute: 21.180999%
+Percent actually necessary to pre-compute: 21.082000%
+Percent actually necessary to pre-compute: 21.144000%
+Percent actually necessary to pre-compute: 21.254000%
+Percent actually necessary to pre-compute: 20.961000%
+Percent actually necessary to pre-compute: 21.307001%
+Percent actually necessary to pre-compute: 21.010000%
+Percent actually necessary to pre-compute: 21.188000%
+Percent actually necessary to pre-compute: 21.144000%
+Percent actually necessary to pre-compute: 21.472000%
+Percent actually necessary to pre-compute: 21.269999%
+Percent actually necessary to pre-compute: 21.175000%
+Percent actually necessary to pre-compute: 21.177000%
+Percent actually necessary to pre-compute: 21.314000%
+Percent actually necessary to pre-compute: 21.264000%
+Percent actually necessary to pre-compute: 21.166000%
+Percent actually necessary to pre-compute: 21.122000%
+Percent actually necessary to pre-compute: 21.173000%
+Percent actually necessary to pre-compute: 21.238001%
+Percent actually necessary to pre-compute: 21.154000%
+Percent actually necessary to pre-compute: 21.285000%
+Percent actually necessary to pre-compute: 21.272001%
+Percent actually necessary to pre-compute: 21.232000%
+Percent actually necessary to pre-compute: 21.258000%
+Percent actually necessary to pre-compute: 21.268000%
+Percent actually necessary to pre-compute: 21.145999%
+Percent actually necessary to pre-compute: 21.235999%
+Percent actually necessary to pre-compute: 21.083000%
+Percent actually necessary to pre-compute: 21.347000%
+Percent actually necessary to pre-compute: 21.476001%
+Percent actually necessary to pre-compute: 21.199000%
+Percent actually necessary to pre-compute: 21.146999%
+Percent actually necessary to pre-compute: 21.168999%
+Percent actually necessary to pre-compute: 21.289000%
+Percent actually necessary to pre-compute: 21.332000%
+Percent actually necessary to pre-compute: 21.375000%
+OOV Words: 1410 / 48447 = 2.91%
+UAS = 80.0330
+LAS = 75.4909
+DependencyParser parsed 48447 words in 2514 sentences in 8.5s at 5687.6 w/s, 295.1 sent/s.

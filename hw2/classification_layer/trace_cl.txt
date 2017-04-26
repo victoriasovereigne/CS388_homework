@@ -1,0 +1,81 @@
+blow-pops$ python pos_bilstm.py wsj train-pso-r standard train pso output
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+10 batches ====> Validation Accuracy 0.112, Validation Loss 3.695, Validation OOV Accuracy 0.290, Time 1488784403.502
+20 batches ====> Validation Accuracy 0.142, Validation Loss 3.069, Validation OOV Accuracy 0.141, Time 1488784434.844
+30 batches ====> Validation Accuracy 0.130, Validation Loss 2.997, Validation OOV Accuracy 0.135, Time 1488784464.818
+40 batches ====> Validation Accuracy 0.156, Validation Loss 2.973, Validation OOV Accuracy 0.233, Time 1488784494.744
+50 batches ====> Validation Accuracy 0.159, Validation Loss 2.950, Validation OOV Accuracy 0.232, Time 1488784524.667
+60 batches ====> Validation Accuracy 0.161, Validation Loss 2.930, Validation OOV Accuracy 0.237, Time 1488784556.988
+70 batches ====> Validation Accuracy 0.163, Validation Loss 2.900, Validation OOV Accuracy 0.232, Time 1488784586.775
+80 batches ====> Validation Accuracy 0.168, Validation Loss 2.856, Validation OOV Accuracy 0.234, Time 1488784616.631
+90 batches ====> Validation Accuracy 0.241, Validation Loss 2.786, Validation OOV Accuracy 0.234, Time 1488784646.505
+100 batches ====> Validation Accuracy 0.339, Validation Loss 2.679, Validation OOV Accuracy 0.233, Time 1488784676.262
+110 batches ====> Validation Accuracy 0.351, Validation Loss 2.518, Validation OOV Accuracy 0.235, Time 1488784708.268
+120 batches ====> Validation Accuracy 0.411, Validation Loss 2.334, Validation OOV Accuracy 0.236, Time 1488784738.126
+130 batches ====> Validation Accuracy 0.422, Validation Loss 2.165, Validation OOV Accuracy 0.235, Time 1488784767.897
+140 batches ====> Validation Accuracy 0.447, Validation Loss 2.014, Validation OOV Accuracy 0.265, Time 1488784797.687
+150 batches ====> Validation Accuracy 0.479, Validation Loss 1.876, Validation OOV Accuracy 0.264, Time 1488784827.430
+160 batches ====> Validation Accuracy 0.530, Validation Loss 1.734, Validation OOV Accuracy 0.336, Time 1488784859.537
+170 batches ====> Validation Accuracy 0.586, Validation Loss 1.592, Validation OOV Accuracy 0.349, Time 1488784889.298
+180 batches ====> Validation Accuracy 0.622, Validation Loss 1.449, Validation OOV Accuracy 0.404, Time 1488784919.073
+190 batches ====> Validation Accuracy 0.665, Validation Loss 1.307, Validation OOV Accuracy 0.416, Time 1488784948.877
+200 batches ====> Validation Accuracy 0.712, Validation Loss 1.158, Validation OOV Accuracy 0.432, Time 1488784978.666
+210 batches ====> Validation Accuracy 0.762, Validation Loss 1.023, Validation OOV Accuracy 0.494, Time 1488785010.407
+220 batches ====> Validation Accuracy 0.796, Validation Loss 0.899, Validation OOV Accuracy 0.509, Time 1488785040.228
+230 batches ====> Validation Accuracy 0.828, Validation Loss 0.786, Validation OOV Accuracy 0.518, Time 1488785069.988
+240 batches ====> Validation Accuracy 0.849, Validation Loss 0.691, Validation OOV Accuracy 0.525, Time 1488785099.847
+250 batches ====> Validation Accuracy 0.862, Validation Loss 0.606, Validation OOV Accuracy 0.542, Time 1488785129.609
+260 batches ====> Validation Accuracy 0.887, Validation Loss 0.533, Validation OOV Accuracy 0.533, Time 1488785163.842
+270 batches ====> Validation Accuracy 0.901, Validation Loss 0.470, Validation OOV Accuracy 0.552, Time 1488785193.564
+280 batches ====> Validation Accuracy 0.911, Validation Loss 0.415, Validation OOV Accuracy 0.574, Time 1488785223.275
+290 batches ====> Validation Accuracy 0.920, Validation Loss 0.373, Validation OOV Accuracy 0.595, Time 1488785253.006
+300 batches ====> Validation Accuracy 0.925, Validation Loss 0.336, Validation OOV Accuracy 0.595, Time 1488785282.729
+310 batches ====> Validation Accuracy 0.928, Validation Loss 0.305, Validation OOV Accuracy 0.601, Time 1488785314.901
+320 batches ====> Validation Accuracy 0.932, Validation Loss 0.282, Validation OOV Accuracy 0.572, Time 1488785344.706
+330 batches ====> Validation Accuracy 0.935, Validation Loss 0.264, Validation OOV Accuracy 0.581, Time 1488785374.486
+340 batches ====> Validation Accuracy 0.937, Validation Loss 0.250, Validation OOV Accuracy 0.570, Time 1488785404.292
+350 batches ====> Validation Accuracy 0.939, Validation Loss 0.236, Validation OOV Accuracy 0.597, Time 1488785434.126
+360 batches ====> Validation Accuracy 0.942, Validation Loss 0.226, Validation OOV Accuracy 0.623, Time 1488785466.112
+370 batches ====> Validation Accuracy 0.943, Validation Loss 0.218, Validation OOV Accuracy 0.610, Time 1488785495.937
+380 batches ====> Validation Accuracy 0.944, Validation Loss 0.209, Validation OOV Accuracy 0.611, Time 1488785525.665
+390 batches ====> Validation Accuracy 0.946, Validation Loss 0.205, Validation OOV Accuracy 0.605, Time 1488785555.406
+400 batches ====> Validation Accuracy 0.946, Validation Loss 0.198, Validation OOV Accuracy 0.586, Time 1488785585.119
+410 batches ====> Validation Accuracy 0.948, Validation Loss 0.192, Validation OOV Accuracy 0.619, Time 1488785616.848
+420 batches ====> Validation Accuracy 0.949, Validation Loss 0.187, Validation OOV Accuracy 0.609, Time 1488785646.551
+430 batches ====> Validation Accuracy 0.950, Validation Loss 0.182, Validation OOV Accuracy 0.618, Time 1488785676.298
+440 batches ====> Validation Accuracy 0.950, Validation Loss 0.181, Validation OOV Accuracy 0.574, Time 1488785705.953
+450 batches ====> Validation Accuracy 0.950, Validation Loss 0.177, Validation OOV Accuracy 0.590, Time 1488785735.663
+460 batches ====> Validation Accuracy 0.952, Validation Loss 0.173, Validation OOV Accuracy 0.591, Time 1488785767.305
+470 batches ====> Validation Accuracy 0.952, Validation Loss 0.170, Validation OOV Accuracy 0.584, Time 1488785797.042
+480 batches ====> Validation Accuracy 0.952, Validation Loss 0.169, Validation OOV Accuracy 0.614, Time 1488785826.754
+490 batches ====> Validation Accuracy 0.953, Validation Loss 0.167, Validation OOV Accuracy 0.595, Time 1488785856.516
+500 batches ====> Validation Accuracy 0.953, Validation Loss 0.164, Validation OOV Accuracy 0.601, Time 1488785886.262
+510 batches ====> Validation Accuracy 0.953, Validation Loss 0.166, Validation OOV Accuracy 0.580, Time 1488785918.250
+520 batches ====> Validation Accuracy 0.952, Validation Loss 0.163, Validation OOV Accuracy 0.570, Time 1488785948.074
+530 batches ====> Validation Accuracy 0.952, Validation Loss 0.166, Validation OOV Accuracy 0.605, Time 1488785977.790
+540 batches ====> Validation Accuracy 0.953, Validation Loss 0.160, Validation OOV Accuracy 0.575, Time 1488786007.592
+550 batches ====> Validation Accuracy 0.954, Validation Loss 0.159, Validation OOV Accuracy 0.595, Time 1488786037.413
+560 batches ====> Validation Accuracy 0.954, Validation Loss 0.158, Validation OOV Accuracy 0.581, Time 1488786069.481
+570 batches ====> Validation Accuracy 0.954, Validation Loss 0.157, Validation OOV Accuracy 0.587, Time 1488786099.236
+580 batches ====> Validation Accuracy 0.955, Validation Loss 0.155, Validation OOV Accuracy 0.595, Time 1488786128.958
+590 batches ====> Validation Accuracy 0.954, Validation Loss 0.155, Validation OOV Accuracy 0.582, Time 1488786158.674
+600 batches ====> Validation Accuracy 0.955, Validation Loss 0.156, Validation OOV Accuracy 0.606, Time 1488786188.398
+610 batches ====> Validation Accuracy 0.954, Validation Loss 0.156, Validation OOV Accuracy 0.571, Time 1488786220.009
+620 batches ====> Validation Accuracy 0.954, Validation Loss 0.155, Validation OOV Accuracy 0.561, Time 1488786249.772
+630 batches ====> Validation Accuracy 0.955, Validation Loss 0.157, Validation OOV Accuracy 0.588, Time 1488786279.521
+640 batches ====> Validation Accuracy 0.953, Validation Loss 0.157, Validation OOV Accuracy 0.536, Time 1488786309.290
+650 batches ====> Validation Accuracy 0.955, Validation Loss 0.155, Validation OOV Accuracy 0.592, Time 1488786339.055
+660 batches ====> Validation Accuracy 0.955, Validation Loss 0.151, Validation OOV Accuracy 0.569, Time 1488786370.768
+670 batches ====> Validation Accuracy 0.954, Validation Loss 0.153, Validation OOV Accuracy 0.571, Time 1488786400.479
+680 batches ====> Validation Accuracy 0.955, Validation Loss 0.152, Validation OOV Accuracy 0.593, Time 1488786430.180
+690 batches ====> Validation Accuracy 0.955, Validation Loss 0.152, Validation OOV Accuracy 0.579, Time 1488786459.913
+700 batches ====> Validation Accuracy 0.956, Validation Loss 0.150, Validation OOV Accuracy 0.598, Time 1488786489.652
+Time: 2086.149999856949
+
+Test Accuracy: 0.957
+Test Loss: 0.143
+Test OOV Accuracy: 0.586
+
